@@ -1,4 +1,6 @@
-![](AI Programming with Python.jpg)
+![](AI_Programming_with_Python.jpg)
+
+<br>
 
 # Udacity AI Programming with Python Nanodegree
 
@@ -14,4 +16,4 @@ Course content: Python, NumPy, Pandas, Seaborn, PyTorch, linear algebra and deep
 
 ------
 
-*Last update: 31 August 2019*
+*Last update: 2 September 2019*
