@@ -6,7 +6,7 @@
 
 <br>
 
-**Course Periode: April 2018 - May 2018.**
+**Periode: April 2018 - May 2018.**
 
 <br>
 
